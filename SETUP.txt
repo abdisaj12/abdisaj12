@@ -1,0 +1,18 @@
+ABDİSA JEMAL — GITHUB PROFILE README
+
+CONTENTS
+- README.md: your profile README
+- assets/banner.png: your custom banner
+
+HOW TO USE
+1. Open https://github.com/new
+2. Create a public repository named exactly: abdisaj12
+   (If your profile README repository already exists, use that instead.)
+3. Upload README.md and the assets folder with banner.png.
+4. Commit the files to the main branch.
+5. Visit https://github.com/abdisaj12 to see the profile.
+
+NOTES
+- The animated typing, stats cards, streak card, icons, visitor counter, and footer are loaded from external services.
+- GitHub may take a little time to refresh profile content and external statistics.
+- The README intentionally does not list or name any projects.
