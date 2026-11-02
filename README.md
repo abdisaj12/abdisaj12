@@ -1,123 +1,131 @@
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Abdisa Jemal — Developer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080A18,40:30105B,75:007C91,100:00E5FF&height=220&section=header&text=ABDisa%20JEMAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descAlignY=59&descSize=14&animation=fadeIn" alt="Abdisa Jemal header"/>
+
+<a href="https://github.com/abdisaj12">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Abdisa+Jemal;I+turn+ideas+into+digital+experiences;Code.+Create.+Learn.+Repeat.+%E2%9C%A8" alt="Animated introduction"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=700&color=FF3030&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+BOOT+COMPLETE;%3E+ABDIsA+JEMAL;%3E+SOFTWARE+DEVELOPER;%3E+LEARN.+BUILD.+INNOVATE." alt="Animated terminal introduction"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Online status"/>
-<img src="https://img.shields.io/badge/MODE-ENGINEERING-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Engineering mode"/>
-<img src="https://img.shields.io/github/followers/abdisaj12?style=for-the-badge&color=FF3030&label=FOLLOWERS" alt="GitHub followers"/>
+<a href="https://github.com/abdisaj12">
+<img src="https://img.shields.io/badge/GitHub-abdisaj12-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/FOCUS-CREATIVE%20DEVELOPMENT-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" alt="Creative development"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-111827?style=for-the-badge&logo=rocket&logoColor=00E5FF" alt="Always learning"/>
 
 </div>
 
 ---
 
-## <code>// 01. ABOUT_ME</code>
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-```text
-NAME       : Abdisa Jemal
-IDENTITY   : Software Developer
-MINDSET    : Continuous Learning
-INTERESTS  : Web Development | Technology | Problem Solving
-MISSION    : Build useful digital experiences
-```
+## 👨‍💻 About Me
 
-I am a software developer passionate about technology, creative problem-solving, and building modern digital experiences.
+<img align="right" width="150" src="https://github.com/abdisaj12.png" alt="Abdisa's GitHub avatar"/>
 
-I believe in writing clean code, learning continuously, and turning ideas into practical solutions.
+Hi! I'm **Abdisa Jemal**, a developer who enjoys technology, creative problem-solving, and building meaningful digital experiences.
 
-> **My philosophy:** Learn continuously. Build intentionally. Improve every day.
+I believe great software combines thoughtful engineering with beautiful design.
+
+- 💻 Interested in software development and modern web technologies.
+- 🎨 Passionate about clean interfaces and user-friendly experiences.
+- 🧠 Always learning, experimenting, and improving.
+- ⚡ Focused on writing useful, maintainable code.
+- 🌍 Based in Ethiopia.
+
+<br clear="right"/>
 
 ---
 
-## <code>// 02. TECHNOLOGY_STACK</code>
+<!-- ═══════════════ TECHNOLOGY ═══════════════ -->
+
+## ⚡ My Technology Toolkit
 
 <div align="center">
 
-### FRONTEND
+### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend technology icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cs&theme=dark" alt="Programming language icons"/>
 
-### BACKEND & DATABASE
+### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql&theme=dark" alt="Backend and database icons"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&theme=dark" alt="Development technology icons"/>
 
-### TOOLS & ENVIRONMENT
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Development tools icons"/>
-
-</div>
-
----
-
-## <code>// 03. GITHUB_STATISTICS</code>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdisaj12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisaj12&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF" alt="Most-used programming languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=abdisaj12&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" alt="GitHub contribution streak"/>
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,git,github,vscode,linux&theme=dark" alt="Database and development tools"/>
 
 </div>
 
 ---
 
-## <code>// 04. CONTRIBUTION_ACTIVITY</code>
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdisaj12&bg_color=0D1117&color=FF3030&line=FF3030&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## <code>// 05. ENGINEERING_MINDSET</code>
-
-<div align="center">
-
-```text
-[01] THINK DEEPLY
-[02] DESIGN SMARTLY
-[03] CODE CLEANLY
-[04] TEST CAREFULLY
-[05] NEVER STOP LEARNING
-```
-
-<img src="https://img.shields.io/badge/BUILD-BOLDLY-FF3030?style=for-the-badge" alt="Build boldly"/>
-<img src="https://img.shields.io/badge/THINK-CRITICALLY-111111?style=for-the-badge" alt="Think critically"/>
-<img src="https://img.shields.io/badge/LEARN-ALWAYS-FF3030?style=for-the-badge" alt="Learn always"/>
-
-</div>
-
----
-
-## <code>// 06. CONNECT</code>
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/abdisaj12">
-<img src="https://img.shields.io/badge/GITHUB-ABDISAJ12-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdisaj12&show_icons=true&hide_border=true&bg_color=080A18&title_color=00E5FF&icon_color=9B5CFF&text_color=E6EDF3&ring_color=00E5FF" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/abdisaj12">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisaj12&layout=compact&hide_border=true&bg_color=080A18&title_color=00E5FF&text_color=E6EDF3" alt="Most-used languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/abdisaj12">
+<img src="https://streak-stats.demolab.com?user=abdisaj12&hide_border=true&background=080A18&ring=00E5FF&fire=9B5CFF&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════ PERSONAL PHILOSOPHY ═══════════════ -->
+
+## ✨ My Philosophy
+
+<div align="center">
+
+### `Think creatively. Build intelligently. Keep growing.`
+
+*Every line of code is an opportunity to learn something new.*
+
+<img src="https://img.shields.io/badge/CREATE-WITH%20PURPOSE-101828?style=flat-square&labelColor=101828&color=007C91"/>
+<img src="https://img.shields.io/badge/LEARN-EVERY%20DAY-101828?style=flat-square&labelColor=101828&color=6C3ACF"/>
+<img src="https://img.shields.io/badge/IMPROVE-ONE%20STEP%20AT%20A%20TIME-101828?style=flat-square&labelColor=101828&color=007C91"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/abdisaj12">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+</a>
+
+<a href="mailto:abdisaj12@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdisa"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdisaj12&style=for-the-badge&color=FF3030&label=PROFILE+VISITS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=abdisaj12&style=for-the-badge&color=007C91&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<code>Dream it. Code it. Ship it.</code>
+**Thanks for visiting my corner of GitHub!** 💙
 
-<br/><br/>
-
-<sub>Designed with ❤️ by Abdisa Jemal</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:30105B,100:080A18&height=100&section=footer" alt="Decorative footer"/>
 
 </div>
