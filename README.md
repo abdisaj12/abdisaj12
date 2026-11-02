@@ -1,135 +1,123 @@
 <div align="center">
 
-<img src="https://gh.crafter.run/abdisaj12?theme=dark" width="100%" alt="Abdisa's terminal-style GitHub profile card"/>
+<img src="./assets/banner.png" width="100%" alt="Abdisa Jemal — Developer Banner"/>
 
-<p><code>[SYS.BOOT] [USER: ABDISA-JEMAL] [MODE: ENGINEERING]</code></p>
-<p><code>STACK:: SOFTWARE | FULL-STACK | WEB TECHNOLOGY</code></p>
-<p><code>STATUS:: ONLINE // LEARNING AND BUILDING</code></p>
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=700&color=FF3030&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+BOOT+COMPLETE;%3E+ABDIsA+JEMAL;%3E+SOFTWARE+DEVELOPER;%3E+LEARN.+BUILD.+INNOVATE." alt="Animated terminal introduction"/>
 
----
+<br/>
 
-<div align="center">
-
-# `ABDIsA_JEMAL::`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=FF3030&center=true&vCenter=true&width=800&lines=%3E%3E+INITIALIZING+DEVELOPER...;SYS%3A+SOFTWARE+DEVELOPER;LOADING+ENGINEERING+MINDSET...;BUILD%28%29+%7C+LEARN%28%29+%7C+IMPROVE%28%29;STATUS%3A+READY+TO+BUILD" alt="Animated developer terminal introduction"/>
-
-**`ROLE:: SOFTWARE_DEVELOPER` · `MODE:: CONTINUOUS_LEARNING`**
-
-<a href="https://github.com/abdisaj12">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/abdisaj12?tab=followers">
-<img src="https://img.shields.io/github/followers/abdisaj12?style=for-the-badge&color=FFFFFF&labelColor=0D1117&logo=github" alt="GitHub followers"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Online status"/>
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Engineering mode"/>
+<img src="https://img.shields.io/github/followers/abdisaj12?style=for-the-badge&color=FF3030&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## `[01] :: SYSTEM_MISSION`
+## <code>// 01. ABOUT_ME</code>
 
 ```text
-IDENTITY  :: ABDISA JEMAL
-DOMAIN    :: SOFTWARE DEVELOPMENT
-MINDSET   :: CURIOSITY + DISCIPLINE
-OBJECTIVE :: BUILD USEFUL DIGITAL EXPERIENCES
-PROTOCOL  :: LEARN -> BUILD -> TEST -> IMPROVE
+NAME       : Abdisa Jemal
+IDENTITY   : Software Developer
+MINDSET    : Continuous Learning
+INTERESTS  : Web Development | Technology | Problem Solving
+MISSION    : Build useful digital experiences
 ```
 
-I am passionate about technology, software development, and turning ideas into practical digital experiences.
+I am a software developer passionate about technology, creative problem-solving, and building modern digital experiences.
 
-My approach is simple: understand the problem, design a thoughtful solution, write maintainable code, and keep improving.
+I believe in writing clean code, learning continuously, and turning ideas into practical solutions.
 
-`PRINCIPLE:: GOOD SOFTWARE IS BUILT WITH PURPOSE.`
+> **My philosophy:** Learn continuously. Build intentionally. Improve every day.
 
 ---
 
-## `[02] :: STACK_MANIFEST`
+## <code>// 02. TECHNOLOGY_STACK</code>
 
 <div align="center">
 
-**// FRONTEND SYSTEMS**
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend technology icons"/>
 
-**// BACKEND & DATA SYSTEMS**
+### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql&theme=dark" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql&theme=dark" alt="Backend and database icons"/>
 
-**// ENGINEERING TOOLS**
+### TOOLS & ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Development tools"/>
-
-</div>
-
-```bash
-$ developer --status
-
-[OK]  Learning continuously
-[OK]  Exploring modern technologies
-[OK]  Improving problem-solving skills
-[OK]  Building better digital experiences
-
-$ _
-```
-
----
-
-## `[03] :: ACTIVITY_LOG`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdisaj12&bg_color=0d1117&color=ff3030&line=ff3030&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" alt="Development tools icons"/>
 
 </div>
 
 ---
 
-## `[04] :: ENGINEERING_SIGNAL`
+## <code>// 03. GITHUB_STATISTICS</code>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdisaj12&theme=github_dark" width="100%" alt="GitHub profile summary"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdisaj12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdisaj12&theme=github_dark" width="49%" alt="Repository language distribution"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdisaj12&theme=github_dark" width="49%" alt="GitHub statistics"/>
-
-</div>
-
----
-
-## `[05] :: COLLAB_PROTOCOL`
-
-I value collaboration, creative thinking, continuous learning, and the engineering discipline needed to turn ideas into reliable software.
-
-```text
-PROTOCOL:: THINK DEEPLY
-           CODE CLEANLY
-           TEST CAREFULLY
-           KEEP IMPROVING
-```
-
-<div align="center">
-
-<a href="https://github.com/abdisaj12">
-<img src="https://img.shields.io/badge/CONNECT-GITHUB-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisaj12&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF" alt="Most-used programming languages"/>
 
 <br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=abdisaj12&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## <code>// 04. CONTRIBUTION_ACTIVITY</code>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdisaj12&bg_color=0D1117&color=FF3030&line=FF3030&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## <code>// 05. ENGINEERING_MINDSET</code>
+
+<div align="center">
+
+```text
+[01] THINK DEEPLY
+[02] DESIGN SMARTLY
+[03] CODE CLEANLY
+[04] TEST CAREFULLY
+[05] NEVER STOP LEARNING
+```
 
 <img src="https://img.shields.io/badge/BUILD-BOLDLY-FF3030?style=for-the-badge" alt="Build boldly"/>
-<img src="https://img.shields.io/badge/THINK-CRITICALLY-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="Think critically"/>
+<img src="https://img.shields.io/badge/THINK-CRITICALLY-111111?style=for-the-badge" alt="Think critically"/>
 <img src="https://img.shields.io/badge/LEARN-ALWAYS-FF3030?style=for-the-badge" alt="Learn always"/>
 
+</div>
+
+---
+
+## <code>// 06. CONNECT</code>
+
+<div align="center">
+
+<a href="https://github.com/abdisaj12">
+<img src="https://img.shields.io/badge/GITHUB-ABDISAJ12-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdisaj12&style=for-the-badge&color=FF3030&label=SYSTEM+VISITS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=abdisaj12&style=for-the-badge&color=FF3030&label=PROFILE+VISITS" alt="Profile visitor counter"/>
 
 <br/><br/>
 
-<sub><code>END_OF_FILE // ENGINEERED BY ABDISA JEMAL</code></sub>
+<code>Dream it. Code it. Ship it.</code>
+
+<br/><br/>
+
+<sub>Designed with ❤️ by Abdisa Jemal</sub>
 
 </div>
